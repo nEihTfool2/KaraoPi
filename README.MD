@@ -11,7 +11,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <!--<a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>-->
     ·
     <a href="https://github.com/Neihtq/KaraoPi/issues">Report Bug</a>
     ·
